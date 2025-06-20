@@ -5,6 +5,9 @@ __pycache__/
 *$py.class
 .DS_Store
 
+# AWS PEM Key
+*.pem
+
 # C extensions
 *.so
 
