@@ -9,11 +9,11 @@
 
 # 📚 Contents
 
-1. [프로젝트 소개](#1-Project-Introduction)
-2. [프로젝트 개요](#2-Project-Overview)
-3. [프로젝트 문서](#3-Project-Documents)
-4. [디렉토리 구조](#4-Directory-Diagram)
-5. [한 줄 회고](#5-Memoir)
+1. [Project Introduction](#1-Project-Introduction)
+2. [Project Overview](#2-Project-Overview)
+3. [Project Documents](#3-Project-Documents)
+4. [Directory Diagram](#4-Directory-Diagram)
+5. [Memoir](#5-Memoir)
 
 <br><br>
 
