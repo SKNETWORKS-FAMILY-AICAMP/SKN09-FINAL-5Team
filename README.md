@@ -94,6 +94,9 @@
 [시스템 구성도](./01_docs/10_시스템%20구성도.docx)
 
 
+<a href="https://github.com/SIQRIT"><b>[모델 허깅페이스 허브]</b></a>
+
+
 <br><br>
 
 ---
